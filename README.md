@@ -1,6 +1,6 @@
 #icecream README
 
 
-this is the secong update
+this is the second update
 can you see it?
 
